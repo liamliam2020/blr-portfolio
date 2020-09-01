@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blr-portfolio/static/css/main.6fafd636.chunk.css",
+    "main.js": "/blr-portfolio/static/js/main.3657ba08.chunk.js",
+    "main.js.map": "/blr-portfolio/static/js/main.3657ba08.chunk.js.map",
+    "runtime-main.js": "/blr-portfolio/static/js/runtime-main.dded8d63.js",
+    "runtime-main.js.map": "/blr-portfolio/static/js/runtime-main.dded8d63.js.map",
+    "static/js/2.ad145645.chunk.js": "/blr-portfolio/static/js/2.ad145645.chunk.js",
+    "static/js/2.ad145645.chunk.js.map": "/blr-portfolio/static/js/2.ad145645.chunk.js.map",
+    "index.html": "/blr-portfolio/index.html",
+    "precache-manifest.1e70efc8ca53bed9d0b2934c072983a8.js": "/blr-portfolio/precache-manifest.1e70efc8ca53bed9d0b2934c072983a8.js",
+    "service-worker.js": "/blr-portfolio/service-worker.js",
+    "static/css/main.6fafd636.chunk.css.map": "/blr-portfolio/static/css/main.6fafd636.chunk.css.map",
+    "static/js/2.ad145645.chunk.js.LICENSE.txt": "/blr-portfolio/static/js/2.ad145645.chunk.js.LICENSE.txt",
+    "static/media/B Liam Rethore Resume.pdf": "/blr-portfolio/static/media/B Liam Rethore Resume.50bb53e3.pdf",
+    "static/media/Icon_New Array.png": "/blr-portfolio/static/media/Icon_New Array.42e16b34.png",
+    "static/media/SortingVisualizer.module.css": "/blr-portfolio/static/media/Menlo-Regular.9f94dc20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dded8d63.js",
+    "static/js/2.ad145645.chunk.js",
+    "static/css/main.6fafd636.chunk.css",
+    "static/js/main.3657ba08.chunk.js"
+  ]
+}
