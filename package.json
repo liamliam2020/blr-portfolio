@@ -1,7 +1,7 @@
 {
   "name": "blr-portfolio",
   "version": "0.1.0",
-  "homepage": "https://liamliam2020.github.io/portfolio-website",
+  "homepage": "https://liamliam2020.github.io/blr-portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
