@@ -6,7 +6,7 @@ import Layout from './hoc/Layout/Layout';
 
 const App = (props) => {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <Layout />
     </BrowserRouter>
   );

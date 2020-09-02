@@ -13,7 +13,7 @@ const Main = (props) => (
           title="Sorting Algorithm Visualizer"
           desc="Visual implementation of Merge Sort, Bubble Sort, Quick Sort, and Shell Sort."
           tech="JavaScript (ES6), React.js, CSS, Git"
-          route="/sorting-visualizer"
+          route="https://github.com/liamliam2020/sorting-visualizer"
         />
         <hr />
       </li>
@@ -70,4 +70,9 @@ True Projects I want to Showcase:
   />
   <hr />
 </li>
+*/
+
+/* 
+1. because I cant use react router on this I will need to link to different github project pages that are build as react apps standalone
+2. also noticed a spacing issue for mobile
 */
